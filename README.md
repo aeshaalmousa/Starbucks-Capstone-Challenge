@@ -2,12 +2,12 @@
 
 ### Installations:
 Python version 3 used and packages are :
-pandas
-numpy
-json
-matplotlib
+- pandas
+- numpy
+- json
+- matplotlib
 
-Project Motivation:
+### Project Motivation:
 Starbucks makes promotional offers on mobile app and people often tends to offers to make purchasing decisions.
 In this project,focus on each gender responsive for each offer. The data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app.
 
