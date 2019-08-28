@@ -27,5 +27,5 @@ If you are using the workspace, you will need to go to the terminal and run the 
  results of the project documented on the <a href='https://medium.com/@aeshaalsh/starbucks-offers-and-each-gender-response-3dc56d98fdfe?source=friends_link&sk=9bc85aebd8157312630924a181f9138e'>post</a>
 
 
-### Licensing, Authors, Acknowledgements:
+### Licensing, Authors:
 Data provider is udacity.
