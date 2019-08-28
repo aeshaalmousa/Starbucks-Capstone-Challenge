@@ -23,10 +23,9 @@ In this project,focus on each gender responsive for each offer. The data set con
 
 ### Instructions:
 If you are using the workspace, you will need to go to the terminal and run the command `conda update pandas` before reading in the files. This is because the version of pandas in the workspace cannot read in the transcript.json file correctly, but the newest version of pandas can.
- ### result 
+### Result 
  results of the project documented on the <a href='https://medium.com/@aeshaalsh/starbucks-offers-and-each-gender-response-3dc56d98fdfe?source=friends_link&sk=9bc85aebd8157312630924a181f9138e'>post</a>
 
 
-
 ### Licensing, Authors, Acknowledgements:
-- The data provider is udacity
+Data provider is udacity.
